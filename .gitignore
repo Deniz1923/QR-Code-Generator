@@ -1,0 +1,23 @@
+# Dependency Directories
+/node_modules
+
+# Build and Distribution Folders
+/dist
+/build
+/out
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-workspace
+*.swp
+
+# Operating System Files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Temporary and Log Files
+*.log
+*.tmp
+# Local environment variables
+.env
